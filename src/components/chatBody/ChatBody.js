@@ -10,7 +10,6 @@ export default class ChatBody extends Component {
             <Chatlist />
             <Chatcontent />
             <Userprofile />
-            <Nav />
         </div>;
     }
 }
